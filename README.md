@@ -100,16 +100,3 @@ flask run
 Open your browser to: http://127.0.0.1:5000
 
 ---
-
-## Contributing
-- Fork the repo, create a feature branch, and submit a PR.
-- Keep changes focused and add tests or documentation for new features.
-
----
-
-## License
-Include a licence file (e.g., MIT) if you intend to open-source this project.
-
----
-
-If you want, I can also generate a polished `requirements.txt`, example `.env`, or a GitHub Actions workflow for testing/deployment.
